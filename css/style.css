@@ -1,5 +1,6 @@
 :root {
   --preto-principal: #000000;
+  
 }
 
 * {
@@ -85,4 +86,15 @@
 
 .curiosidades__itens p {
   margin-top: 10px;
+}
+
+/* Footer */
+
+.rodape p{
+  text-align: center;
+  margin: 10px 0;
+}
+
+.rodape a {
+  text-decoration: none;
 }
